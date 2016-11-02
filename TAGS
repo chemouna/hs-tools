@@ -1,0 +1,28 @@
+
+./app/Main.hs,52
+module Main Main0,1
+main main4,5
+main main5,6
+
+./Setup.hs,15
+main main1,2
+
+./src/GitTagReleaseHotfix.hs,82
+module GitTagReleaseHotfix GitTagReleaseHotfix1,2
+main main7,8
+main main8,9
+
+./src/Greetings.hs,86
+module Greetings Greetings1,2
+parser parser6,7
+parser parser7,8
+main main9,10
+
+./src/Lib.hs,65
+module LibLib0,1
+someFunc someFunc4,5
+someFunc someFunc5,6
+
+./test/Spec.hs,30
+main main0,1
+main main1,2
